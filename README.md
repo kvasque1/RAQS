@@ -1,2 +1,5 @@
 # RAQS
-Relational Actualization of Quantum States (RAQS): A unified framework integrating quantum mechanics and spacetime through relational decoherence and information actualization.
+Relational Actualization of Quantum States:
+A Unified Information–Geometric Framework for
+Quantum Mechanics,
+Gravitation, and Dark Structure
