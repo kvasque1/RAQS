@@ -24,7 +24,7 @@ RAQS_Manuscript_2025_PeerReviewBuild.pdf
 Citation
 
 Vasquez, K. (2025). Relational Actualization of Quantum States: A Unified Information–Geometric
-Framework for Quantum Mechanics, Gravitation, and Dark Structure. Zenodo. DOI: https://doi.org/xxxxxxxx
+Framework for Quantum Mechanics, Gravitation, and Dark Structure. Zenodo. DOI: [https://doi.org/10.5281/zenodo.17844827]
 
 Version Notice
 
